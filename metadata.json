@@ -1,0 +1,8 @@
+{
+  "name": "LOPIN - Pro Subtitle Editor",
+  "description": "A professional subtitle generation and styling app supporting Bangla, Hindi, Banglish, and Hindilish. Edit fonts, colors, and timing with ease.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
